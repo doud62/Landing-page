@@ -1,0 +1,35 @@
+header{
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+  color: white;
+  height: 37em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+}
+
+#intro{
+  width: 50em;
+  margin: 0 auto;
+}
+
+
+h2{
+  margin: 0.8em 0 2.5em 0;
+  color: rgb(160, 160, 160);
+  font-weight: 400;
+  font-size: 1.2em;
+}
+
+header a {
+  background-color: #1EDD88;
+  text-decoration: none;
+  color: white;
+  padding: 1em 3em;
+  border-radius: 4em;
+  margin-top: 3em;
+}
